@@ -1,0 +1,42 @@
+
+{"name":"Rasi",
+"headerTaglineOne":"Hello 👋",
+"headerTaglineTwo":"I'm Rasi Kumar - curious",
+"headerTaglineThree":"designer and devloper",
+"headerTaglineFour":" based in Tamil Nadu, India.",
+"showCursor":true,
+"showBlog":true,
+"darkMode":true,
+"showResume":true,
+"socials":[
+    {"id":"1","title":"Github","link":"https://github.com/rasikumar"},
+    {"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/"},
+    {"id":"3","title":"Twitter","link":"https://x.com/"},
+    {"id":"4","title":"Blog","link":"https://www.blogger.com/profile/02913971920049419586"},
+    {"id":"5","title":"Email","link":"mailto:rasimax55@gmail.com"}
+],
+"projects":[
+    {"id":"1","title":"Enrich","description":"Self Improvement","imageSrc":"https://enrich12.netlify.app/assets/heroimg-HgU1fLay.jpg", "url" : "https://enrich12.netlify.app/"},
+    {"id":"2","title":"Car Wash Management","description":"Future Enhancement","imageSrc":"https://imgs.search.brave.com/oE_o-dKVsW0M5ajWNXVV8JBIOAEjPlVfHMpgoZ0dUm8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTM0/OTI2MjI1OC9waG90/by9jYXItd2FzaC1z/ZWxmLXNlcnZpY2Uu/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PVBxUW52SWtpOXRV/UkRSLWVXdG9xajhj/NVRMOXVwc1M0cEM5/eHZSR2Q3RlU9"},
+    {"id":"3","title":"Build AI model","description":"Productivity Purpose","imageSrc":"https://raw.githubusercontent.com/rasikumar/Build-AI-Model-website/main/src/assets/background.jpg?token=GHSAT0AAAAAACQXPMJ7XGBL2SFPAAVPABIQZUWNAXA", "url":"https://v3w.netlify.app/"},
+    {"id":"4","title":"Evvi","description":"Marketing","imageSrc":"https://nmim.netlify.app/img/6.png","url":"https://evvisolutions.com/"}
+],
+"services":[
+    {"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},
+    {"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},
+    {"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},
+    {"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}
+    ],
+"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+"resume":{"tagline":"👋  I'm a software engineer, product designer.",
+"description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+"experiences":[
+        {"id":"1","dates":"April 2024 - Present","type":"InternShip","position":"Frontend Engineer at Evvi Solution","bullets":"Bullet One, Bullet Two"},
+        {"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}
+],
+"education":{"universityName":"KLN Arts & Sciences",
+"universityDate":"2021-2024",
+"universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},
+"languages":["Javascript","HTML5","CSS","Python","Go"],
+"frameworks":["React","Typescript","NodeJs"],
+"others":["Figma","AdobeXD","AWS"]}}
